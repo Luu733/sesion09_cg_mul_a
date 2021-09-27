@@ -67,7 +67,7 @@ function init() {
       
       Cubo.push(cubo(4, 4, 4, 0xFF0000, 'Standard', false));
 
-      Cubo[i].position.set(0, 4+(i*4), 0);
+      Cubo[i].position.set(0, 4+(i*5), 0);
     }
     // position and point the camera to the center of the scene
     camera.position.set(-30, 40, 30);
