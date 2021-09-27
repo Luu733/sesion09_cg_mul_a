@@ -50,18 +50,6 @@ function init() {
 
 
     Cubo = [];   // Definir un array unidimensional
-    /*Cubo.push(cubo(4, 4, 4, 0xFFDD00, 'Standard', false));
-    Cubo.push(cubo(4, 4, 4, 0xFF0000, 'Physical', false));
-    Cubo.push(cubo(4, 4, 4, 0x00FF00, 'Standard', false));
-    Cubo.push(cubo(4, 4, 4, 0xCE54C6, 'Phong', false));
-    Cubo.push(cubo(4, 4, 4, 0x25D9C4, 'Lambert', false));
-    
-
-    Cubo[0].position.set(0, 4, 0);
-    Cubo[1].position.set(0, 8, 0);
-    Cubo[2].position.set(0, 12, 0);
-    Cubo[3].position.set(0, 16, 0);
-    Cubo[4].position.set(0, 20, 0);*/
 
     for(var i=0; i<5; i++){
       

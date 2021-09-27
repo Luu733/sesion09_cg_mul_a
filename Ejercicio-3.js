@@ -75,3 +75,9 @@ function init() {
     renderer.render(scene, camera);
 }
 
+
+//REFERENCIAS
+
+//https://developer.mozilla.org/es/docs/Web/CSS/transform-function/translate()
+
+//https://developer.mozilla.org/es/docs/Web/CSS/transform
